@@ -39,8 +39,9 @@ To reproduce the analysis results, simply run the 2 notebooks: **`Main_figures_R
 
 ## 📗 IV. Conclusion:
 Our research has shed light on the capacity of a single convolutional neural network, trained simultaneously on both facial expression and identity recognition, to exhibit functional specialization, thereby segregating distinct features specific to each task.
+
 The interpretability methods provided meaningful insight into the decision-making process of the model. CAM and preferred stimulus visualization showed that the joint model focuses on different facial attributes for each task, and that task specific features only emerge in the deeper layers. These methods could be widely applicable to other studies aiming to understand the internal mechanisms of biological visual systems. Our study also identified task-specific facial biomarkers that could assist in training individuals with facial recognition impairments. Notably, by examining the images that maximally activate each unit in the model, we can potentially identify and tune disrupted neurons in the visual system to respond better to task-optimized images.
 ## 💾 V. Data availability
-The raw data is not included but was obtained from open databases: [KDEF](https://kdef.se/), [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/), and [FER2013]().
-## 📌 VII. Citations:
+The raw data is not included but was obtained from open databases: [KDEF](https://kdef.se/), [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/), and [FER2013](https://www.kaggle.com/datasets/msambare/fer2013).
+## 📌 VI. Citations:
 Any use of the code or the data should cite both the associated paper and this github repository DOI.
