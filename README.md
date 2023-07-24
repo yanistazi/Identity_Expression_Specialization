@@ -1,6 +1,6 @@
 # Code accompanying: *Emergence of Interpretable Functional Specialization in Neural Networks Trained on Facial Expression and Identity Recognition*
 
-[Paper Link]()
+[Paper Link](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper40.pdf)
  
 ## 📂 I. Repository Structure
 
@@ -44,4 +44,4 @@ The interpretability methods provided meaningful insight into the decision-makin
 ## 💾 V. Data availability
 The raw data is not included but was obtained from open databases: [KDEF](https://kdef.se/), [VoxCeleb](https://www.robots.ox.ac.uk/~vgg/data/voxceleb/), and [FER2013](https://www.kaggle.com/datasets/msambare/fer2013).
 ## 📌 VI. Citations:
-Any use of the code or the data should cite both the associated paper and this github repository DOI.
+Any use of the code or the data should cite both the associated [paper](https://icml-compbio.github.io/2023/papers/WCBICML2023_paper40.pdf) and this github repository DOI.
